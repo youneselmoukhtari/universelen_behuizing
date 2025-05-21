@@ -16,16 +16,7 @@ EasyEnclosure is an open-source 3D modeling software tailored specifically for d
 
 Typescript, React, JSCad
 
-## Contributions
 
-<a href="https://github.com/sponsors/bruceborrett" target="_blank"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="50" width="217" ></a>
-<a href="https://www.buymeacoffee.com/bruceborrett" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="217" style="border-radius:8px;"></a>
-
-If you find this software useful and would like to see further development please consider [donating](https://www.buymeacoffee.com/bruceborrett) or [sponsoring]() :pray:
-
-It is very time consuming and expensive to continuously test prints with all the various combinations of settings, so you can also help by printing with as many different settings as possible and reporting any issues you may find.
-
-Pull requests are also welcome!
 
 ## ToDo
 - [x] Basic square enclosure
